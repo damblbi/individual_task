@@ -1,4 +1,4 @@
-class task
+class Task
 	def news(n)
 		require 'rss'
 		require 'open-uri'
